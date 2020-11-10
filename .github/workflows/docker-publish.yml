@@ -55,7 +55,8 @@ jobs:
 
       - name: Push image
         run: |
-          IMAGE_ID=lavanyay172/nodejs_project/$IMAGE_NAME
+          IMAGE_ID=lavanyay172/nodejs_project
+          
 
           # Change all uppercase to lowercase
           IMAGE_ID=$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')
