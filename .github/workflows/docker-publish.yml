@@ -55,7 +55,7 @@ jobs:
 
       - name: Push image
         run: |
-          IMAGE_ID=lavanyay172/nodejs_project
+          IMAGE_ID=lavanyay172/testrepo
           
 
           # Change all uppercase to lowercase
