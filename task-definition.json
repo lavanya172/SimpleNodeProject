@@ -64,7 +64,7 @@
     "EC2",
     "FARGATE"
   ],
-  "taskDefinitionArn": "arn:aws:ecs:us-east-1:139505895443:task-definition/first-run-task-definition:10",
+  "taskDefinitionArn": "arn:aws:ecs:us-east-1:139505895443:task-definition/first-run-task-definition:9",
   "family": "first-run-task-definition",
   "requiresAttributes": [
     {
