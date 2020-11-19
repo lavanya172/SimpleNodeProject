@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Nodejs_container",
+    "imageUri": "139505895443.dkr.ecr.us-east-1.amazonaws.com/my-ecr-repo:latest"
+  }
+]
